@@ -1,5 +1,11 @@
 # codemymobile FullStack Project
 
+Back-end code is placed in the "master" branch.
+https://github.com/tomar123/codemymobile/tree/master
+
+Front-end code is placed in "front-end" branch.
+https://github.com/tomar123/codemymobile/tree/front-end
+
 After cloning the repo, install all dependencies with the following command:
 
 for banck-end (node.js) install follwoing commands to run the project
