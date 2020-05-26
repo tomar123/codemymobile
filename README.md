@@ -13,7 +13,7 @@ for banck-end (node.js) install follwoing commands to run the project
 for banck-end (angular.js) install follwoing commands to run the project
 
 1. npm install -g @angular/cli@latest
-2. ng new <ProjectName>
+2. ng new Project_Name
 3. ng serve
 
 for our better understanding "npm run dev" command is set in package.json (both front-end & back-end)
