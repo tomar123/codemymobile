@@ -1,4 +1,4 @@
-# codemymobile
+# codemymobile FullStack Project
 
 After cloning the repo, install all dependencies with the following command:
 
